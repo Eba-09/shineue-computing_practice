@@ -1,0 +1,19 @@
+{
+  "name": "computing-practice",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@codemirror/lang-python": "^6.1.6",
+    "@supabase/supabase-js": "^2.45.4",
+    "@uiw/react-codemirror": "^4.23.5",
+    "framer-motion": "^11.11.9",
+    "next": "14.2.35",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
